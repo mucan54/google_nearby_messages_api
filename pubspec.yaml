@@ -1,0 +1,22 @@
+name: google_nearby_messages_api
+description: A new Flutter plugin gives acces to use google neaby messages api in flutter project
+version: 0.0.1
+author: mevos19 <evolusimo@gmail.com>
+homepage: https://github.com/mevos19/google_nearby_messages_api
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  plugin:
+    androidPackage: com.mevos.google_nearby_messages_api
+    pluginClass: GoogleNearbyMessagesApiPlugin
