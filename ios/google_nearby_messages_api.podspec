@@ -15,6 +15,7 @@ A new Flutter plugin gives acces to use google neaby messages api in flutter pro
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
+  s.dependency 'NearbyMessages'
 
   s.ios.deployment_target = '8.0'
 end
