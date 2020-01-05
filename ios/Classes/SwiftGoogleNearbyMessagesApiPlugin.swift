@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import NearbyMessages
+
 
 @objc public class SwiftFlutterNearbyMessagesPlugin: NSObject, FlutterPlugin {
     private var client: GNSMessageManager? = nil
